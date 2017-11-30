@@ -1,0 +1,12 @@
+var searchData=
+[
+  ['mail_5ftemplate',['mail_template',['../classcom_1_1example_1_1usuario_1_1mailsender_1_1mail__template.html#a03998ba5f17dac442f4bef3dd7938655',1,'com::example::usuario::mailsender::mail_template']]],
+  ['mailsender',['MailSender',['../classcom_1_1example_1_1usuario_1_1mailsender_1_1_mail_sender.html#aafca49b55028d4864403eef7a4b4a253',1,'com::example::usuario::mailsender::MailSender']]],
+  ['matchesmesa',['matchesMesa',['../classcom_1_1example_1_1usuario_1_1integrationmaps_1_1_mesas_matcher.html#a10edc250ccc8960cbdfb88ccf6b74375',1,'com::example::usuario::integrationmaps::MesasMatcher']]],
+  ['matchessafely',['matchesSafely',['../classcom_1_1example_1_1usuario_1_1integrationmaps_1_1_mesas_matcher.html#a4718f67b0093e22d08dc6fd9dbe89e2a',1,'com::example::usuario::integrationmaps::MesasMatcher']]],
+  ['mesa',['mesa',['../classcom_1_1example_1_1usuario_1_1integrationmaps_1_1mesa.html#aba8681f5782425c2bf76f63839d3c599',1,'com::example::usuario::integrationmaps::mesa']]],
+  ['mesasmatcher',['MesasMatcher',['../classcom_1_1example_1_1usuario_1_1integrationmaps_1_1_mesas_matcher.html#a0f2f66f177e56f0b000078908208997a',1,'com::example::usuario::integrationmaps::MesasMatcher']]],
+  ['myadapter',['MyAdapter',['../classcom_1_1example_1_1usuario_1_1integrationmaps_1_1_activity_main_1_1_my_adapter.html#ad9f75eee1aafa70a7be9653d0c87eacd',1,'com.example.usuario.integrationmaps.ActivityMain.MyAdapter.MyAdapter()'],['../classcom_1_1example_1_1usuario_1_1integrationmaps_1_1_my_adapter.html#a579979c23c4beb86c1393e41777cda92',1,'com.example.usuario.integrationmaps.MyAdapter.MyAdapter()']]],
+  ['mysingleton',['Mysingleton',['../classcom_1_1example_1_1usuario_1_1codigo__reserva_1_1_mysingleton.html#a68ba4435202375d48b932f6cfefde94d',1,'com.example.usuario.codigo_reserva.Mysingleton.Mysingleton()'],['../classcom_1_1example_1_1usuario_1_1integrationmaps_1_1_mysingleton.html#a1466823149db1f7576836a9dc9d70e03',1,'com.example.usuario.integrationmaps.Mysingleton.Mysingleton()']]],
+  ['myviewholder',['MyViewHolder',['../classcom_1_1example_1_1usuario_1_1integrationmaps_1_1_activity_main_1_1_my_view_holder.html#ac9ef27a05e7a5a91c4f60bdc6d7781c4',1,'com.example.usuario.integrationmaps.ActivityMain.MyViewHolder.MyViewHolder()'],['../classcom_1_1example_1_1usuario_1_1integrationmaps_1_1_search_adapter_1_1_my_view_holder.html#a7d4c22ea331ac08d176521161f746f7b',1,'com.example.usuario.integrationmaps.SearchAdapter.MyViewHolder.MyViewHolder()']]]
+];
